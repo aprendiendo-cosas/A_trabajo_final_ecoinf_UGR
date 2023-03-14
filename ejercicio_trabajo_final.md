@@ -1,8 +1,8 @@
 # Trabajo final
 
 
-> + **_Versión_**: 2021-2022
-> + **_Asignatura (titulación)_**: Ciclo de gestión del dato: ecoinformática (máster conservación, gestión y restauración de la biodiversidad. UGR). Curso 2021-2022
+> + **_Versión_**: 2022-2023
+> + **_Asignatura (titulación)_**: Ciclo de gestión del dato: ecoinformática (máster conservación, gestión y restauración de la biodiversidad. UGR). 
 > + **_Autor_**: Curro Bonet-García (fjbonet@uco.es)
 
 
@@ -36,10 +36,12 @@ Por último, el peso de este trabajo en la calificación de la asignatura depend
 
 ## Tareas a realizar
 Para la realización de este ejercicio realizaremos la siguiente secuencia de acciones:
-- Organización de los grupos de trabajo. Debéis organizaros en grupos para hacer esta actividad. Alguien del grupo tendrá que dar de alta a su equipo en [este](https://docs.google.com/forms/d/e/1FAIpQLSdjN3orZIRBY3M0OaZcqch4qaKwYXzIygyVyqX_GuHx3zgLiw/viewform?usp=sf_link) formulario. 
-- Dividiremos Sierra Nevada en varias zonas cuyo tamaño dependerá del número de grupos obtenido. Cada grupo recibirá una capa vectorial que representará la extensión de su zona de estudio.
+- Organización de los grupos de trabajo. Hay tres grupos de tres personas cada uno. Cada grupo se encargará de la siguiente zona (los enlaces permiten descargar el shapefile con la delimitación de la zona):
+  - Grupo 1 (Pedro, Pablo y Natalia): Sur de Sierra Nevada.
+  - Grupo 2 (Nacho, Marina y María Luisa): Cara norte de Sierra Nevada.
+  - Grupo 3 (Martín, Elsa y Andrea): Cuadrante occidental de Sierra Nevada. 
+
 - Manos a la obra: una vez asignada la zona de estudio, ya podéis empezar a trabajar. La información geográfica necesaria para hacer el trabajo está disponible en internet y, sobre todo, en los guiones de las sesiones que hemos impartido ya. Recordad que los tres profesores de la asignatura estamos disponibles para ayudar en cualquier momento. 
-- Antes de que terminen las clases os pasaremos información para incorporar a vuestro trabajo alguna de las variables que consideramos interesantes al desarrollar el flujograma general, pero que no hemos tenido tiempo de abordar. 
 
 ## Evaluación
 
