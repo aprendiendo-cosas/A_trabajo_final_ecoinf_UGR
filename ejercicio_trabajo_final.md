@@ -30,22 +30,31 @@ El trabajo deberá de tener la estructura de un informe o de un trabajo científ
 - Resultados y discusión: Describe tus resultados con una perspectiva ecológica. Aquí tendrás que evocar conocimientos adquiridos durante el grado y el master. También puedes discutir los resultados a la luz de los métodos que hayas usado. Lógicamente se valorará la presencia de gráficos, mapas y tablas.
 - Conclusiones: Deberás de describir las conclusiones científico-técnicas que has alcanzado. Esto incluye incorporar la componente ecológica en cada uno de los resultados obtenidos. Es decir, deberás de justificar ecológicamente tus conclusiones.
 - Bibliografía: Debe de haber una sección con la literatura científica o técnica que hayáis usado durante la elaboración del trabajo.
+- Repositorio de código. Sería muy recomendable que usárais GitHub para documentar todos los procedimientos analíticos que aplicáis a los datos. 
 - Descripción del trabajo realizado por cada miembro del equipo. El texto ha de contar con una breve sección en la que cada participante describa en una o dos frases su contribución al trabajo final. Debe de ser, lógicamente, una sección consensuada. La calificación no se realizará en función de lo que se diga aquí. Todos los participantes tendrán la misma calificación en el trabajo salvo que surja algún conflicto que justifique hacer lo contrario. 
 
-Por último, el peso de este trabajo en la calificación de la asignatura dependerá de cuántos ejercicios pongamos al final. Pero seguramente será más del 50% y menos del 70%.
+Es muy importante que os quede claro lo siguiente:
 
-## Tareas a realizar
++ El objetivo de este trabajo es que sigáis aprendiendo mientras lo realizáis. 
++ No se trata de que os agobiéis. Por favor, contactad con nosotros si tenéis dudas y si veis que esto os desborda. Hacedlo antes, preferiblemente...
++ Incluir en el trabajo los errores que habéis cometido y también los callejones sin salida que habéis encontrado. Se aprende mucho del error. Permitíos eso :)
++ Todos los profesores de la asignatura estamos a vuestra disposición para responder cualquier duda. Recordad nuestros correos y también el canal de Telegram que compartimos.
+
+
+
+## Zonas de estudio
 Para la realización de este ejercicio realizaremos la siguiente secuencia de acciones:
 - Organización de los grupos de trabajo. Hay tres grupos de tres personas cada uno. Cada grupo se encargará de la siguiente zona (los enlaces permiten descargar el shapefile con la delimitación de la zona):
-  - Grupo 1 (Pedro, Pablo y Natalia): Sur de Sierra Nevada.
-  - Grupo 2 (Nacho, Marina y María Luisa): Cara norte de Sierra Nevada.
-  - Grupo 3 (Martín, Elsa y Andrea): Cuadrante occidental de Sierra Nevada. 
 
-- Manos a la obra: una vez asignada la zona de estudio, ya podéis empezar a trabajar. La información geográfica necesaria para hacer el trabajo está disponible en internet y, sobre todo, en los guiones de las sesiones que hemos impartido ya. Recordad que los tres profesores de la asignatura estamos disponibles para ayudar en cualquier momento. 
+  - Grupo 1 (Pedro, Pablo y Natalia): [Sur de Sierra Nevada.](https://github.com/aprendiendo-cosas/A_trabajo_final_ecoinf_UGR/raw/2022-2023/geoinfo/grupo_1.zip)
+  - Grupo 2 (Nacho, Marina y María Luisa): [Cara norte de Sierra Nevada.](https://github.com/aprendiendo-cosas/A_trabajo_final_ecoinf_UGR/raw/2022-2023/geoinfo/grupo_2.zip)
+  - Grupo 3 (Martín, Elsa y Andrea): [Cuadrante occidental de Sierra Nevada.](https://github.com/aprendiendo-cosas/A_trabajo_final_ecoinf_UGR/raw/2022-2023/geoinfo/grupo_3.zip) 
+
+  
 
 ## Evaluación
 
-Para la calificación de esta tarea se usará la siguiente rúbrica:
+Por último, el peso de este trabajo en la calificación de la asignatura dependerá de cuántos ejercicios pongamos al final. Pero seguramente será más del 50% y menos del 70%. Para la calificación de esta tarea se usará la siguiente rúbrica:
 
 | Se recomienda no editar las guías de evaluación en formato de hoja de cálculo |  |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- |
