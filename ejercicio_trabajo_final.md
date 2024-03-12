@@ -9,12 +9,12 @@
 
 ## Objetivos del ejercicio
 
-Esta actividad tiene el siguiente objetivo de aprendizaje:
+Esta actividad tiene los siguientes objetivos de aprendizaje:
 
 + Entrenar la capacidad de comparar con criterio distintas formas de representar en el espacio una variable ambiental concreta.
 + Mejorar la capacidad de cuestionar la validez de un mapa en función de factores relacionados con la ecología de la variable representada. 
 + Aprender que completar un flujo de trabajo satisfactoriamente no tiene por qué implicar que el resultado sea válido desde un punto de vista ecológico.
-+ Evaluar una parte del conocimiento adquirido en el "tema" de caracterización de la densidad de los pinares de repoblación.
++ Poner en práctica las competencias adquiridas durante la asignatura y aplicarlas a un caso de estudio concreto. 
 
 
 
@@ -22,12 +22,12 @@ Esta actividad tiene el siguiente objetivo de aprendizaje:
 
 El trabajo final consiste en responder a la pregunta inicial que nos hicimos al principio de la asignatura: ¿En qué pinares debemos de intervenir (reduciendo la densidad del pinar) para maximizar su naturalización a formaciones de vegetación natural?
 
-Para ello podrás utilizar tanto el flujo de trabajo que estamos desarrollando durante la asignatura, como los datos que hemos ido subiendo a la plataforma de clase. También puedes incorporar otros datos o flujos de trabajo que consideres relevantes.
+Para ello podréis utilizar tanto el flujo de trabajo que estamos desarrollando durante la asignatura, como los datos que hemos ido subiendo a la plataforma de clase. También podéis incorporar otros datos o flujos de trabajo que consideres relevantes.
 
 El trabajo deberá de tener la estructura de un informe o de un trabajo científico. La extensión máxima no deberá superar las 30 páginas. Debe de contemplar los siguientes aspectos:
 - Introducción: Breve descripción del estado del asunto abordado, con referencias bibliográficas. Planteamiento del problema a abordar. Objetivos.
-- Material y métodos: Deberás detallar cómo pretendéis abordar la cuestión propuesta. Dado que estamos en una asignatura fundamentalmente metodológica, aquí está el meollo del asunto. Podréis utilizar los mismos métodos que hemos visto en clase, aunque se valorará si introducís nuevas variables o técnicas analíticas. También es muy importante que tengáis en cuenta la reproducibilidad de vuestros análisis. Es decir, es altamente recomendable que todo el código que uséis esté disponible en un repositorio de GitHub, por ejemplo.Otro aspecto muy importante es que describáis hasta dónde no habéis podido llegar y por qué. Es decir, si habéis intentado hacer algo y no habéis podido, explícadlo con detalle. Sería interesante que incluyérais un flujograma en la sección de metodología. 
-- Resultados y discusión: Describid vuestros resultados con una perspectiva ecológica. Aquí tendréis que evocar conocimientos adquiridos durante el grado y el master. También podéi discutir los resultados a la luz de los métodos que hayáis usado. Lógicamente se valorará la presencia de gráficos, mapas y tablas.
+- Material y métodos: Deberéis detallar cómo pretendéis abordar la cuestión propuesta. Dado que estamos en una asignatura fundamentalmente metodológica, aquí está el meollo del asunto. Podréis utilizar los mismos métodos que hemos visto en clase, aunque se valorará si introducís nuevas variables o técnicas analíticas. También es muy importante que tengáis en cuenta la reproducibilidad de vuestros análisis. Es decir, es altamente recomendable que todo el código que uséis esté disponible en un repositorio de GitHub, por ejemplo.Otro aspecto muy importante es que describáis hasta dónde no habéis podido llegar y por qué. Es decir, si habéis intentado hacer algo y no habéis podido, explícadlo con detalle. Sería interesante que incluyérais un flujograma en la sección de metodología. 
+- Resultados y discusión: Describid vuestros resultados con una perspectiva ecológica. Aquí tendréis que evocar conocimientos adquiridos durante el grado y el master. También podéis discutir los resultados a la luz de los métodos que hayáis usado. Lógicamente se valorará la presencia de gráficos, mapas y tablas.
 - Conclusiones: Deberéis describir las conclusiones científico-técnicas que hayáis alcanzado. Esto incluye incorporar la componente ecológica en cada uno de los resultados obtenidos. Es decir, es necesario justificar ecológicamente vuestras conclusiones.
 - Bibliografía: Debe de haber una sección con la literatura científica o técnica que hayáis usado durante la elaboración del trabajo.
 - Repositorio de código. Como hemos comentado más arriba, sería muy recomendable que usárais GitHub para documentar todos los procedimientos analíticos que aplicáis a los datos. 
@@ -47,10 +47,8 @@ Es muy importante que os quede claro lo siguiente:
 Para la realización de este ejercicio realizaremos la siguiente secuencia de acciones:
 - Organización de los grupos de trabajo. Hay tres grupos de tres personas cada uno. Cada grupo se encargará de la siguiente zona (los enlaces permiten descargar el shapefile con la delimitación de la zona):
 
-  - Grupo 1 (Pedro, Pablo y Natalia): [Sur de Sierra Nevada.](https://github.com/aprendiendo-cosas/A_trabajo_final_ecoinf_UGR/raw/2022-2023/geoinfo/grupo_1.zip)
-  - Grupo 2 (Nacho, Marina y María Luisa): [Cara norte de Sierra Nevada.](https://github.com/aprendiendo-cosas/A_trabajo_final_ecoinf_UGR/raw/2022-2023/geoinfo/grupo_2.zip)
-  - Grupo 3 (Martín, Elsa y Andrea): [Cuadrante occidental de Sierra Nevada.](https://github.com/aprendiendo-cosas/A_trabajo_final_ecoinf_UGR/raw/2022-2023/geoinfo/grupo_3.zip) 
-
+  - Grupos aún por concretar
+  
   
 
 ## Evaluación
