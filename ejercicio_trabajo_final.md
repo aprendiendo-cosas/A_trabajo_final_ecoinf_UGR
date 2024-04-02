@@ -47,7 +47,9 @@ Es muy importante que os quede claro lo siguiente:
 Para la realización de este ejercicio realizaremos la siguiente secuencia de acciones:
 - Organización de los grupos de trabajo. Hay tres grupos de tres personas cada uno. Cada grupo se encargará de la siguiente zona (los enlaces permiten descargar el shapefile con la delimitación de la zona):
 
-  - Grupos aún por concretar
+  - [Grupo 1](https://github.com/aprendiendo-cosas/A_trabajo_final_ecoinf_UGR/raw/main/geoinfo/grupo_1.zip) (Alba, Álvaro, Nerea y Julia).
+  - [Grupo 2](https://github.com/aprendiendo-cosas/A_trabajo_final_ecoinf_UGR/raw/main/geoinfo/grupo_2.zip) (Uxue y Clara)
+  - [Grupo 3](https://github.com/aprendiendo-cosas/A_trabajo_final_ecoinf_UGR/raw/main/geoinfo/grupo_3.zip) (Jesús, Armando, Sabela, Carlos)
   
   
 
